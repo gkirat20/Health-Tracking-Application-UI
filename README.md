@@ -4,7 +4,7 @@ About the Application:
 This Apllication was created by me and my fellow peers enrolled for a Human Computer Interaction Course. The motivation behind this application was to  
 introduce a goal point streak as an attempt for users to keep up with their daily health and nutritional requirements.
 
-##General Application Instructions
+## General Application Instructions
 
 1.Navigate between the different screens of the app using the "Menu" button in the top-left.
 
@@ -16,7 +16,7 @@ introduce a goal point streak as an attempt for users to keep up with their dail
 
 5.Each time the program is started or refreshed, it will randomly generate historical data for the last 2016 days, up to and including today.
 
-#Running the Application
+## Running the Application
 
 1. Download the zip file
 2. Click open the `index.html` to view the website.
