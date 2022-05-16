@@ -1,8 +1,11 @@
-# Health-Tracking-Application
+# Health-Tracking-Application  
 
-About the Application:
-This Apllication was created by me and my fellow peers enrolled for a Human Computer Interaction Course. The motivation behind this application was to  
-introduce a goal point streak as an attempt for users to keep up with their daily health and nutritional requirements.
+<img src=jpgFiles/App_screenshot.png>  
+<img src=jpgFiles/App_screenshot1.png>
+
+
+## About the Application:
+This Apllication was created by me and my fellow peers enrolled for a Human Computer Interaction Course. The motivation behind this application was to introduce a goal point streak as an attempt for users to keep up with their daily health and nutritional requirements.
 
 ## General Application Instructions
 
