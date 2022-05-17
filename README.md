@@ -1,7 +1,6 @@
 # Health-Tracking-Application  
 
 <img src=jpgFiles/App_screenshot.png>  
-<img src=jpgFiles/App_screenshot1.png>
 
 
 ## About the Application:
