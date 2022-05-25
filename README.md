@@ -4,7 +4,7 @@
 
 
 ## About the Application:
-This Apllication was created by me and my fellow peers enrolled for a Human Computer Interaction Course. The motivation behind this application was to introduce a goal point streak as an attempt for users to keep up with their daily health and nutritional requirements.
+This Application was created by me and my fellow peers enrolled for a Human Computer Interaction Course. The motivation behind this application was to introduce a goal point streak as an attempt for users to keep up with their daily health and nutritional requirements.
 
 ## General Application Instructions
 
